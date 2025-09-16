@@ -10,7 +10,15 @@ export default function paginaPrincipal() {
 
       </div>
 
-        
+      <div className='bg-red-800 p-4 font-bold text-white '>
+
+          CENTRO  DE ARBITRAJE 2
+
+      </div>
+
+
+
+
 
     </div>
   )
